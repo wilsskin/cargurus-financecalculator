@@ -3,6 +3,9 @@ A mobile-first finance calculator for car buyers to estimate monthly payments an
 
 [wilsskin.github.io/cargurus-financecalculator](https://wilsskin.github.io/cargurus-financecalculator)
 
+**Team:** Wilson Skinner, Alexa Libbey, Ayat Walid, Leah Namdar-Cohen
+
+
 ---
 
 ## What It Does
